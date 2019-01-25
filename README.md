@@ -1,1 +1,1 @@
-# CIFAR10
+# image classfication
